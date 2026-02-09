@@ -18,6 +18,9 @@ The complete workflow includes:
 * Interactive data visualization
 
 ---
+## Dataset Used
+<a href="https://github.com/KaushCodeVibes/Data-Analysis-Dashboard/blob/main/moviesdata%20(2).csv">Movies Dataset 1</a>
+<a href="https://github.com/KaushCodeVibes/Data-Analysis-Dashboard/blob/main/MoviesData.csv"> Movies Dataset 2 </a>
 
 ## Business Problem
 
@@ -66,7 +69,7 @@ These insights can support strategic decisions related to content acquisition, p
 ---
 
 
-##  Tools & Technologies
+##  Libraries Imported
 
 * Python
 * Pandas, NumPy
@@ -113,3 +116,8 @@ As a freelancer, I ensure:
 ##  Contact
 
 For custom dashboards, business analytics projects, or data consulting, feel free to reach out.
+
+
+## Task
+<img width="1355" height="584" alt="Screenshot 2026-02-10 014625" src="https://github.com/user-attachments/assets/2910f44a-9f28-4e68-896b-dbc1fd170eba" />
+
