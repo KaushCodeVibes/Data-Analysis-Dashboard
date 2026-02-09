@@ -4,7 +4,7 @@ A professional data analytics project focused on understanding Netflix movie tre
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Netflix is widely recognized for its work in data science, artificial intelligence (AI), and machine learning (ML), especially in building recommendation systems based on user behavior and viewing patterns.
 
@@ -19,7 +19,7 @@ The complete workflow includes:
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 The objective of this project is to help stakeholders understand:
 
@@ -32,7 +32,7 @@ These insights can support strategic decisions related to content acquisition, p
 
 ---
 
-## ❓ Key Analysis Questions
+## Key Analysis Questions
 
 1. Which genre is most frequently released on Netflix?
 2. Which movie genre has received the highest number of votes overall?
