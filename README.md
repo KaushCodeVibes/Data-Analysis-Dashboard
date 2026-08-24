@@ -1,6 +1,6 @@
 # Netflix Data Analysis Dashboard
 
-A professional data analytics project focused on understanding Netflix movie trends using data preprocessing, data cleaning, and interactive data visualization. This dashboard is designed to support data‑driven business decisions for content strategy and audience insights.
+A professional data analytics project focused on understanding Netflix movie trends using data preprocessing, data cleaning, and interactive data visualization. This dashboard is designed to support data‑driven business decisions for content strategy and audience insight.
 
 ---
 
